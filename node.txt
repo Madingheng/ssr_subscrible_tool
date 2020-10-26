@@ -2,4 +2,8 @@
 
 ssr://aHVjbG91ZC50azo4MDg4OmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWNmYjpwbGFpbjpUV0Y2YVdwMWJrQXlNREl3Lz9vYmZzcGFyYW09JnJlbWFya3M9VTFOU0xVTk9NZyZncm91cD1UMGRL
 
+# HuCloud线路1
+
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6YjZjZTEyZWEtNGJjZi0zMzlmLTlhOTAtYjk4MmRmZGUwMDgzQDEyMC4yNDAuMTAyLjM4OjEwMDAx?remarks=%5BPro%5D%20%E9%A6%99%E6%B8%AF%2001%20CM%E3%83%BBNetflix%20%7C%20x1.0&obfsParam=azhk1.stantao.com&path=/asuq&obfs=websocket
+
 
