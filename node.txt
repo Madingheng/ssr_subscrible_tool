@@ -22,6 +22,12 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsDkiLA0KICAiYWRkIjogIjYyMS0yNTEwMDIu
 #new10
 ss://YWVzLTI1Ni1nY206MlhHU3JGbGlRNXNRUjJCYw==@561-cm-250916.dnsv3.cc:45160#%E6%96%B010
 
+trojan://b6ade56c-65e1-396b-875a-40d01a434a72@85c77b3b.fbnode-all.6pzfwf.com:56241?allowInsecure=1#s3
+trojan://b6ade56c-65e1-396b-875a-40d01a434a72@85c77b3b.fbnode-all.6pzfwf.com:56221?allowInsecure=1#t3
+trojan://b6ade56c-65e1-396b-875a-40d01a434a72@85c77b3b.fbnode-all.6pzfwf.com:56231?allowInsecure=1#j3
+
+
+
 
 #u6
 trojan://b6ade56c-65e1-396b-875a-40d01a434a72@fbxt0765gh0pielsss.ftisthebest.com:56251?allowInsecure=1#u6
