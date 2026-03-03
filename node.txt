@@ -44,6 +44,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWkh+eUqDkiLA0KICAiYWRkIjogIjU5LjM3LjE0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWTVxN0dAODVjNzdiM2IuZmJub2RlLWFsbC42cHpmd2YuY29tOjU2MDQx#%E5%A4%87%E7%94%A8s1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWTVxN0dAODVjNzdiM2IuZmJub2RlLWFsbC42cHpmd2YuY29tOjU2MDY2#%E5%A4%87%E7%94%A8m
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWTVxN0dAODVjNzdiM2IuZmJub2RlLWFsbC42cHpmd2YuY29tOjU2MDYx#%E5%A4%87%E7%94%A8k1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwcm1rODduaXZqb0BmYnh0MDc2NWdoMHBpZWxzc3MuZnRpc3RoZWJlc3QuY29tOjU2MDUx#%E5%A4%87%E7%94%A8u7
 
 
 
@@ -63,6 +64,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWTVxN0dAODVjNzdiM2IuZmJub2RlLWFsbC42cHpmd2Y
 
 #u6
 #trojan://b6ade56c-65e1-396b-875a-40d01a434a72@fbxt0765gh0pielsss.ftisthebest.com:56251?allowInsecure=1#u6
+
+trojan://e4895ea3-7b4a-3f46-ba5a-44ac4a691635@fbxt0765gh0pielsss.ftisthebest.com:56251?allowInsecure=1#%E5%A4%87%E7%94%A8u6
 
 #u2
 #ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWTVxN0dAODVjNzdiM2IuZmJub2RlLWFsbC42cHpmd2YuY29tOjU2MDUx#u2
