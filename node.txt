@@ -1,9 +1,5 @@
 #备t
 vmess://eyJhZGQiOiJ0dzAxLm5ldXJpeC5pY3UiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMTA3M2UwZGMtYzNmMi00OTYxLThhZDYtY2NmNjM2ZTI1OWJlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IuWkh3QiLCJzbmkiOiJ0dzAxLm5ldXJpeC5pY3UiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-#备1
-trojan://b0cad17e-3e8e-4e4b-be54-6603a616b88c@us1.dc46a0a8-9549-c832-bd35-89a4b8b26ab1.36a8c922.the-best-airport.com:443?sni=new.download.the-best-airport.com#%E5%A4%871
-#备2
-trojan://b0cad17e-3e8e-4e4b-be54-6603a616b88c@us2.dc46a0a8-9549-c832-bd35-89a4b8b26ab1.2f6cd430.the-best-airport.com:443?sni=new.download.the-best-airport.com#%E5%A4%872
 #备u
 trojan://66cd45b29b3c0041@sie.yinyun01.com:9443?sni=2026.yinyun2026.com#%E5%A4%87u
 #备u1
