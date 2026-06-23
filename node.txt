@@ -4,12 +4,8 @@ vmess://eyJhZGQiOiJ0dzAxLm1pY2xvdWQuaW5rIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjEw
 trojan://66cd45b29b3c0041@pzdcs9snh88me5dv.yinyun01.com:9443?sni=2026.yinyun2026.com#%E5%A4%871
 #备2
 trojan://66cd45b29b3c0041@dxnyzwfsaxr5bgluaw.yinyun.digital:9443?sni=2026.yinyun2026.com#%E5%A4%872
-#备4
-trojan://66cd45b29b3c0041@dxnyzwfsaxr5bgluaw.yinyun01.com:9443?sni=2026.yinyun2026.com#%E5%A4%874
-#备7
-trojan://66cd45b29b3c0041@ae6977112e2f5e31.yinyun01.com:9443?sni=2026.yinyun2026.com#%E5%A4%877
-#备u
-trojan://66cd45b29b3c0041@sie.yinyun01.com:9443?sni=2026.yinyun2026.com#%E5%A4%87u
+#备3
+trojan://66cd45b29b3c0041@quveh6fy10wnmicp.yinyun01.com:9443?sni=2026.yinyun2026.com#%E5%A4%873
 #备h
 trojan://adb098d9caf8db6f@pzdcs9snh88me5dv.yinyun01.com:9443?sni=2026.yinyun2026.com#%E5%A4%87h
 #备x
