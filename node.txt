@@ -1,6 +1,10 @@
+#备用a
+trojan://66cd45b29b3c0041@300ad30cbb6ac3bc.yinyun.digital:9527?sni=dl.yeagent.com.cn#%E5%A4%87%E7%94%A8a
+#备用1
+trojan://d20afb039fd6912e@300ad30cbb6ac3bc.yinyun.digital:9527?sni=dl.yeagent.com.cn#%E5%A4%87%E7%94%A81
+#备用2
+trojan://df4df8ec4aa7cd89@300ad30cbb6ac3bc.yinyun.digital:9527?sni=dl.yeagent.com.cn#%E5%A4%87%E7%94%A82
 #备用3
 trojan://82f4d5b793d89016@300ad30cbb6ac3bc.yinyun.digital:9527?sni=dl.yeagent.com.cn#%E5%A4%87%E7%94%A83
 #备用4
 trojan://e2a0e8ed5a31e656@300ad30cbb6ac3bc.yinyun.digital:9527?sni=dl.yeagent.com.cn#%E5%A4%87%E7%94%A84
-#备w
-vmess://eyJhZGQiOiJ0dzAxLm1pY2xvdWQuaW5rIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjEwNzNlMGRjLWMzZjItNDk2MS04YWQ2LWNjZjYzNmUyNTliZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLlpId3Iiwic25pIjoidHcwMS5taWNsb3VkLmluayIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ
