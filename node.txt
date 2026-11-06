@@ -8,3 +8,6 @@ trojan://df4df8ec4aa7cd89@300ad30cbb6ac3bc.yinyun.digital:9527?sni=dl.yeagent.co
 trojan://82f4d5b793d89016@300ad30cbb6ac3bc.yinyun.digital:9527?sni=dl.yeagent.com.cn#%E5%A4%87%E7%94%A83
 #备用4
 trojan://e2a0e8ed5a31e656@300ad30cbb6ac3bc.yinyun.digital:9527?sni=dl.yeagent.com.cn#%E5%A4%87%E7%94%A84
+#测试
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhLfDYxMjEwIiwNCiAgImFkZCI6ICJobi5teXZuYy5jb20iLA0KICAicG9ydCI6ICIxMjMxMiIsDQogICJpZCI6ICI2OWQwMzI5OS00YzJiLTQ0ZTQtZjBlZS00Y2Y0NTYwMTdlM2UiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIm5vbmUiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+
